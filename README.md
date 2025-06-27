@@ -12,7 +12,14 @@ python training.py
 #Inference
 python predict.py "Your text"
 
-#Dataset
+#Dataset:
 Download the dataset from the following link
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+#Fast API (flask)
+# The code predict.py is wrapped to flask.
+Install flask using "pip install flask"
+Run app.py using "python app.py"
+test the app by running "test.py"
+
 
