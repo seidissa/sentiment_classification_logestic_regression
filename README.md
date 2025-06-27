@@ -18,8 +18,8 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 
 #Fast API (flask)
 # The code predict.py is wrapped to flask.
-Install flask using "pip install flask"
-Run app.py using "python app.py"
-test the app by running "test.py"
+Install flask using "pip install flask".
+Run app.py using "python app.py".
+Test the app by running "test.py".
 
 
