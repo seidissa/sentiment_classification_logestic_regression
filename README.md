@@ -12,3 +12,7 @@ python training.py
 #Inference
 python predict.py "Your text"
 
+#Dataset
+Download the dataset from the following link
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
